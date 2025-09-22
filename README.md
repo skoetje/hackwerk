@@ -1,5 +1,6 @@
 # Code-Along: Company Explorer (Codam Test)
 # https://github.com/skoetje/hackwerk
+# informerenenadviseren
 This notebook (`codam_test.ipynb`) builds an interactive app to explore Dutch company data.  
 You’ll load a CSV, clean it, visualize on a map with Folium, and wrap it into a simple Gradio interface.
 
